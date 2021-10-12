@@ -1,5 +1,5 @@
 # oneNeuron_pypi
-
+Packaging simple perceptron python project
 
 
 # References
