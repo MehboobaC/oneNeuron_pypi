@@ -6,7 +6,7 @@ Packaging simple perceptron python project
 from oneNeuron.perceptron import Perceptron
 
 # get X and y then use below commands
-model = Perceptrin(eta=eta, epocha=epochs)
+model = Perceptron(eta=eta, epocha=epochs)
 model.fit(X,y)
 ```
 
